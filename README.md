@@ -37,15 +37,3 @@
 </ol>
 
 
-
-
-
-## Contributors
-- Balavignesh s
-- <!-- Add other contributors as needed -->
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Special thanks to the contributors and supporters who made this project possible.
